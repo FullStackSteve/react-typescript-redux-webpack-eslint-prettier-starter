@@ -34,19 +34,19 @@
 
 <h1> Contents</h1>
 
-- [Overview](#overview)
-  - [Built with](#built-with)
-  - [Visual Studio Code Plugins](#visual-studio-code-plugins)
-  - [Recommended Tools](#recommended-tools)
-  - [Getting started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+-   [Overview](#overview)
+    -   [Built with](#built-with)
+    -   [Visual Studio Code Plugins](#visual-studio-code-plugins)
+    -   [Recommended Tools](#recommended-tools)
+    -   [Getting started](#getting-started)
+        -   [Prerequisites](#prerequisites)
+        -   [Installation](#installation)
+-   [Usage](#usage)
+-   [Roadmap](#roadmap)
+-   [Contributing](#contributing)
+-   [License](#license)
+-   [Contact](#contact)
+-   [Acknowledgements](#acknowledgements)
 
 # Overview
 
@@ -56,13 +56,14 @@ _TODO_
 
 The following frameworks and tools are used:
 
--   [Yarn](https://yarnpkg.com/getting-started)
--   [React](https://reactjs.org/)
--   [TypeScript](https://www.typescriptlang.org/docs)
--   [Webpack 5](https://webpack.js.org/concepts/)
--   [ESLint](https://eslint.org/docs/user-guide/getting-started)
--   [Prettier](https://prettier.io/)
--   [Visual Studio Code](https://code.visualstudio.com/)
+-   [Yarn](https://yarnpkg.com/getting-started) - for package management
+-   [React](https://reactjs.org/) - for building UIs
+-   [TypeScript](https://www.typescriptlang.org/docs) - for static typing
+-   [Webpack 5](https://webpack.js.org/concepts/) - for bundling production builds
+-   [Parcel](https://parceljs.org/) - for blazing fast local debugging
+-   [ESLint](https://eslint.org/docs/user-guide/getting-started) - for static code linting
+-   [Prettier](https://prettier.io/) - for opinionated code formatting
+-   [Visual Studio Code](https://code.visualstudio.com/) - for writing code, debugging and awesome extensions
 
 ## Visual Studio Code Plugins
 

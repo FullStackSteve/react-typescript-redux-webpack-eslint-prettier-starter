@@ -1,0 +1,8 @@
+{
+  "name": "react-typescript-redux-webpack-eslint-prettier-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FullStackSteve/react-typescript-redux-webpack-eslint-prettier-starter.git",
+  "author": "Steve <stevejdaniels@protonmail.com>",
+  "license": "MIT"
+}

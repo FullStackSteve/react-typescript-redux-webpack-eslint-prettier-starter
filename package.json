@@ -33,6 +33,7 @@
         "fork-ts-checker-webpack-plugin": "^6.1.0",
         "html-webpack-plugin": "^4.5.1",
         "husky": "^4.3.8",
+        "parcel": "^1.12.4",
         "prettier": "^2.2.1",
         "pretty-quick": "^3.1.0",
         "ts-loader": "^8.0.14",
@@ -44,6 +45,7 @@
         "webpack-dev-server": "^3.11.2"
     },
     "dependencies": {
+        "components": "^0.1.0",
         "react": "^17.0.1",
         "react-dom": "^17.0.1"
     }
